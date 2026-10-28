@@ -104,13 +104,12 @@ Recommendations should be finalized based on the actual results obtained from th
 
 The Power BI dashboard is an important part of this project because it presents the analysis in a visual and interactive format.
 
-**Add your dashboard screenshot below** after uploading it to a folder such as `images/` in this repository.
+https://github.com/Shankar112004/customer_behavior_analysis/blob/main/customer_behavior_dashboard.png
 
-Example Markdown:
 
-`![Customer Behavior Analysis Dashboard](images/customer_behavior_dashboard.png)`
+<img width="834" height="498" alt="customer_behavior_dashboard" src="https://github.com/user-attachments/assets/3d42726d-d1dd-41bf-8787-b2b518acb83c" />
 
-Replace the image path with the actual location and filename in your repository.
+
 
 ## 💡 Key Skills Demonstrated
 
